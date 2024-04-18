@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://krogowsk80.github.io/ourNorthGarden/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://krogowsk80.github.io/ourNorthGarden/</link>
 	<description></description>
 	<lastBuildDate>Sat, 13 Apr 2024 19:00:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
